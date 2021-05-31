@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: yellowgreen;
+}
+h1{
+    color: royalblue;
+    background-color: orangered;
+    border-style: solid;
+    border-color: indigo;
+}
+img{
+    background-color: cyan;
+    border-style: solid;
+    border-color: white;
+    width: 300px;
+}
